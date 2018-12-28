@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":react-native-gesture-handler"><source path="/home/dev/Desktop/sample_navi/node_modules/react-native-gesture-handler/android/build/intermediates/packagedAssets/debug"/></dataSet><dataSet config="main"><source path="/home/dev/Desktop/sample_navi/android/app/src/main/assets"/><source path="/home/dev/Desktop/sample_navi/android/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/dev/Desktop/sample_navi/android/app/src/debug/assets"/></dataSet></merger>
